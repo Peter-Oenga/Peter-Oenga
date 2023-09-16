@@ -1,3 +1,6 @@
 ### Hi there 👋
- - I am a Software Engineer
- - Portfolio  [click here](https://peter-oenga.github.io/portfolio/)
+* Software Engineer👨‍💻 
+* Visit my Portfolio  [click here](https://peter-oenga.github.io/portfolio/)
+* Contact me  +254795523526
+* email  poenga230@gmail.com
+
