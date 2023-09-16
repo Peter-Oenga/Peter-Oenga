@@ -1,6 +1,6 @@
 ### Hi there 👋
  - I am a Software Engineer
- - Portfolio  [click here]
+ - Portfolio  [click here](https://peter-oenga.github.io/portfolio/)
 <--
 **Peter-Oenga/Peter-Oenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
